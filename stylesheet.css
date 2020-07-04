@@ -1,0 +1,34 @@
+.jumbotron {
+  border-radius: 30px;
+}
+.rotate {
+  margin-top: 50px;
+  animation-name: example;
+  animation-duration: 10s;
+}
+@-moz-keyframes example {
+  30% {
+    -moz-transform: rotate(360deg);
+  }
+}
+
+.alert {
+  font-size: 15px;
+  border-radius: 30px;
+}
+.kasp {
+  font-size: 15px;
+  border-radius: 30px;
+}
+.map {
+  border-radius: 30px;
+}
+.mapbox {
+  border-radius: 35px;
+}
+.test {
+  color: gold;
+}
+.navbar {
+  border-radius: 30px;
+}
